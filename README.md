@@ -26,3 +26,4 @@ Sourcemod (1.11.0.6916) (Для smx файл, sp файл можете на св
 
 Раскидать файлы по папкам.
 
+DS - https://discord.gg/Bbhy8ZsE6F VK - https://vk.com/kikieeki
