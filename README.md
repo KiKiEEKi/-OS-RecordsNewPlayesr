@@ -1,6 +1,6 @@
+Поддерживаемые игры:
 
-
-Поддерживаемые игры: CS: Source (OrangeBox), CS: Source (v34), CS: GO
+CS: Source (OrangeBox), CS: Source (v34), CS: GO
 
 Описание:
 
