@@ -1,6 +1,6 @@
 
 
-Поддерживаемые игры: CS: Source (OrangeBox)CS: Source (v34)CS: GO
+Поддерживаемые игры: CS: Source (OrangeBox), CS: Source (v34), CS: GO
 
 Описание:
 Записывает время, никнейм, steamid и ip игрока в файл.
